@@ -4,9 +4,9 @@ namespace Il2CppDumper
 {
     public class Il2CppCodeRegistration
     {
-        [Version(Max = 24.1)]
+        [Version(Max = 29.1)]
         public ulong methodPointersCount;
-        [Version(Max = 24.1)]
+        [Version(Max = 29.1)]
         public ulong methodPointers;
         [Version(Max = 21)]
         public ulong delegateWrappersFromNativeToManagedCount;
